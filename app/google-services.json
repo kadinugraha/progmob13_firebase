@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "198949693404",
+    "firebase_url": "https://progmob-firebase-b49ec.firebaseio.com",
+    "project_id": "progmob-firebase-b49ec",
+    "storage_bucket": "progmob-firebase-b49ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198949693404:android:552c5b6186209c97",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.pertemuan13b_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198949693404-vepiq0d3o9pukksvec8dngbqub90e0m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.ukdw.pertemuan13b_firebase",
+            "certificate_hash": "b2dcf61c8c8656448c467df50fd1e4d0acadb177"
+          }
+        },
+        {
+          "client_id": "198949693404-nihlchgvvvl2hqaj2harfql5v4uaa54t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0-Hft-fegZ6vabDiVTnKiSmxguQyvAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198949693404-nihlchgvvvl2hqaj2harfql5v4uaa54t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
